@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Rudransh Gupta
 
 ### Software Development Engineer (SDE) | Full-Stack Developer | Java | Python | JavaScript | DSA
@@ -75,7 +74,6 @@ Currently strengthening my expertise in **Data Structures & Algorithms, Object-O
 
 ### 📊 Data & Analytics
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -167,7 +165,7 @@ A full-stack business intelligence platform that enables users to manage, track,
 
 ---
 
-# 🧩 What I'm Currently Working On
+# 🧩 Currently Learning
 
 - 📚 Data Structures & Algorithms
 - 💻 Software Development & Backend Engineering
@@ -185,13 +183,11 @@ A full-stack business intelligence platform that enables users to manage, track,
 - 🥇 Recognized in IIT-hosted technical and cultural competitions
 - 🎵 Led the AAINA Music Team, coordinating student performers and team activities
 - 🚀 Independently designed, developed, and deployed multiple full-stack applications
-- 🧪 Completed a Prompt Engineering internship involving 393+ AI test cases
+- 🧪 Completed a Prompt Engineering internship involving **393+ AI test cases**
 
 ---
 
 # 🎯 Career Interests
-
-I'm particularly interested in opportunities involving:
 
 `Software Development` • `Full-Stack Development` • `Backend Engineering` • `Data Engineering` • `Data Analytics` • `Artificial Intelligence`
 
@@ -227,4 +223,3 @@ I'm particularly interested in opportunities involving:
 <p align="center">
   <i>Building. Learning. Solving. Improving.</i>
 </p>
-```
