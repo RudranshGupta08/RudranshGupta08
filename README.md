@@ -1,18 +1,230 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>Computer Science undergraduate passionate about building scalable applications and data-driven solutions. Strong foundation in full-stack development, analytics, and AI-powered automation, with a keen interest in solving real-world problems using modern technologies.<br><br>🛠️ Tech Stack & Skills<br><br>Frontend<br><br>HTML5, CSS3, JavaScript<br><br>Backend & Databases<br><br>Java, Node.js<br><br>SQL<br><br>Programming & Scripting<br><br>Python<br><br>Data & Analytics<br><br>NumPy, Pandas<br><br>Data Visualization with Python<br><br>Data Analytics<br><br>AI & Automation<br><br>AI Implementation<br><br>Workflow Automation<br><br>Prompt Engineering
+```markdown
+# 👋 Hi, I'm Rudransh Gupta
 
+### Software Development Engineer (SDE) | Full-Stack Developer | Java | Python | JavaScript | DSA
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rudransh-gupta-40aa01299?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rudranshg24@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RudranshGupta08&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RudranshGupta08&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RudranshGupta08&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <a href="https://github.com/RudranshGupta08">
+    <img src="https://img.shields.io/badge/GitHub-RudranshGupta08-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rudransh-gupta-40aa01299">
+    <img src="https://img.shields.io/badge/LinkedIn-Rudransh%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rudranshg24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rudranshg24%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RudranshGupta08&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Computer Science undergraduate specializing in IoT with hands-on experience in **software development, full-stack web applications, RESTful APIs, database-driven systems, data analytics, and AI-enabled solutions**.
+
+I enjoy designing and developing scalable applications that solve real-world problems, with a strong focus on **clean architecture, backend development, database optimization, problem solving, and user-centric solutions**.
+
+Currently strengthening my expertise in **Data Structures & Algorithms, Object-Oriented Programming, Software Development, Data Engineering, and Artificial Intelligence**.
+
+- 🎓 B.Tech in Computer Science & Engineering (IoT) — BBD University
+- 💻 Focused on Software Development and Full-Stack Engineering
+- 🧠 Actively practicing Data Structures & Algorithms
+- ⚙️ Experienced in REST API development and database-driven applications
+- 🤖 Interested in AI integration, automation, and intelligent applications
+- 📊 Interested in Data Analytics and Data Engineering
+- 🚀 Building and deploying practical, real-world software projects
+- 🤝 Open to Software Development, Full-Stack, Data, and AI opportunities
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Full-Stack Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧠 Computer Science Fundamentals
+
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+- Problem Solving
+- Software Development Fundamentals
+- API Design and Backend Architecture
+
+### 📊 Data & Analytics
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+- Data Analysis
+- Data Processing
+- Data Visualization
+- Business Analytics
+- Statistical Analysis Fundamentals
+
+### 🤖 AI & Automation
+
+- Artificial Intelligence
+- AI Integration
+- Prompt Engineering
+- AI-Powered Applications
+- Workflow Automation
+- AI Response Evaluation
+- Data-Driven Model Analysis
+
+### 🔧 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 AutoVerse — Full-Stack Automobile Discovery Platform
+
+A MERN-based automobile discovery platform designed to help users search, explore, compare, and receive personalized vehicle recommendations.
+
+### Key Highlights
+
+- 🚘 Supports **100+ vehicle listings**
+- 🔐 Implemented secure **JWT-based authentication**
+- 🔎 Built dynamic search and multi-parameter filtering across **5+ vehicle attributes**
+- 🔌 Developed **15+ RESTful API endpoints**
+- 🤖 Implemented an **AI-powered recommendation engine**
+- 🗄️ Structured MongoDB collections supporting **1,000+ records**
+- 🏗️ Applied **MVC architecture and modular backend design**
+- 🌐 Independently designed, developed, and deployed the complete application
+
+**Tech Stack:**  
+`React.js` `JavaScript` `Node.js` `Express.js` `MongoDB Atlas` `REST APIs` `JWT` `Express Middleware` `MVC Architecture`
+
+---
+
+## 📊 InsightIQ — Full-Stack Business Analytics Platform
+
+A full-stack business intelligence platform that enables users to manage, track, and analyze business data through a centralized analytics dashboard.
+
+### Key Highlights
+
+- 📈 Developed a centralized dashboard for business data analysis
+- 🔌 Built **12+ RESTful APIs** for authentication, workspace management, transactions, and analytics
+- 💰 Engineered automated **revenue, profit, and expense calculations**
+- 📊 Designed analytics functionality capable of processing **1,000+ transaction records**
+- 🏢 Implemented a scalable **multi-workspace architecture**
+- 🔐 Added JWT-based authentication and protected routes
+- 🗄️ Optimized MongoDB schemas and relationships for scalable data storage
+- 🧩 Designed modular backend services for future AI-driven analytics
+
+**Tech Stack:**  
+`React.js` `Vite` `JavaScript ES6+` `Node.js` `MongoDB Atlas` `REST APIs` `JWT Authentication` `Tailwind CSS`
+
+---
+
+# 💼 Experience
+
+### Prompt Engineering Intern — Techeot Solutions LLP
+
+**June 2024 – August 2024 | Lucknow**
+
+- Developed and evaluated AI prompt-response workflows through systematic testing across **393+ test cases**
+- Contributed to quality assurance processes with **340 successful validations and an 86.5% pass rate**
+- Designed controlled **A/B experiments** to improve AI response quality
+- Performed data-driven analysis of model outputs to identify performance gaps
+- Supported workflow automation and testing processes to reduce manual review effort
+
+**Focus Areas:**  
+`Artificial Intelligence` `Prompt Engineering` `Data Analysis` `Machine Learning` `Workflow Automation`
+
+---
+
+# 🧩 What I'm Currently Working On
+
+- 📚 Data Structures & Algorithms
+- 💻 Software Development & Backend Engineering
+- ☕ Java and Object-Oriented Programming
+- 🐍 Advanced Python
+- 🌐 Full-Stack Web Development
+- 📊 Data Analytics & Data Engineering
+- 🤖 Artificial Intelligence & Generative AI
+- ☁️ Cloud and Deployment Technologies
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Recognized in IIT-hosted technical and cultural competitions
+- 🎵 Led the AAINA Music Team, coordinating student performers and team activities
+- 🚀 Independently designed, developed, and deployed multiple full-stack applications
+- 🧪 Completed a Prompt Engineering internship involving 393+ AI test cases
+
+---
+
+# 🎯 Career Interests
+
+I'm particularly interested in opportunities involving:
+
+`Software Development` • `Full-Stack Development` • `Backend Engineering` • `Data Engineering` • `Data Analytics` • `Artificial Intelligence`
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudranshGupta08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudranshGupta08&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudranshGupta08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rudransh-gupta-40aa01299">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rudranshg24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RudranshGupta08">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building. Learning. Solving. Improving.</i>
+</p>
+```
