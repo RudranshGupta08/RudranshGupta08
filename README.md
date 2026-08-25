@@ -191,20 +191,6 @@ A full-stack business intelligence platform that enables users to manage, track,
 
 `Software Development` • `Full-Stack Development` • `Backend Engineering` • `Data Engineering` • `Data Analytics` • `Artificial Intelligence`
 
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudranshGupta08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudranshGupta08&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudranshGupta08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-</p>
-
----
 
 # 🤝 Let's Connect
 
