@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-Computer Science undergraduate specializing in IoT with hands-on experience in **software development, full-stack web applications, RESTful APIs, database-driven systems, data analytics, and AI-enabled solutions**.
+Computer Science undergraduate specializing in IoT, focused on Software Development and Full-Stack Engineering. Hands-on experience in developing scalable web applications, RESTful APIs, database-driven systems, and AI-enabled solutions using Java, Python, JavaScript, React.js, Node.js, Express.js, MongoDB, and SQL.
 
-I enjoy designing and developing scalable applications that solve real-world problems, with a strong focus on **clean architecture, backend development, database optimization, problem solving, and user-centric solutions**.
+Strong foundation in Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks, with an emphasis on software engineering principles, backend development, database design, and problem solving.
 
-Currently strengthening my expertise in **Data Structures & Algorithms, Object-Oriented Programming, Software Development, Data Engineering, and Artificial Intelligence**.
+Currently focused on strengthening expertise in software development, backend engineering, Data Engineering, Data Analytics, and Artificial Intelligence through practical project development and continuous technical learning.
 
 - 🎓 B.Tech in Computer Science & Engineering (IoT) — BBD University
 - 💻 Focused on Software Development and Full-Stack Engineering
